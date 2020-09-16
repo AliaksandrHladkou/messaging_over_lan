@@ -1,2 +1,7 @@
 # messaging_over_lan
-Basic scripts to send messages between two local computers
+
+## Purpose
+### This is very basic projects of two scripts that allows to send messages between two local computers:
+* client.py which sends messages to another local computer 
+* server.py which receives messages from client
+### Choose proper IP address and port number you want send message to or edit properties directly in code.
